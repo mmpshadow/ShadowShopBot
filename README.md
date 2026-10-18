@@ -1,0 +1,2 @@
+# ShadowShopBot
+Shadow Shop bot
